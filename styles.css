@@ -1,0 +1,10 @@
+.cuadro {
+    background-color: rgb(255, 233, 143) ;
+    height: 200px;
+}
+
+.cuadro > div {
+    background-color: aquamarine;
+    height: 100%;
+}
+
